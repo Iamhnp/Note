@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"Make your code clean","id":"d3ad319f737c45b2","x":-194,"y":-316,"width":308,"height":60},
+		{"type":"text","text":"      Nice code","id":"b89ec46578bb14aa","x":-165,"y":-460,"width":250,"height":60},
+		{"type":"file","file":"Code/How_to_write_code/Name Thing.md","id":"af0cba786008087b","x":-565,"y":-100,"width":400,"height":71,"color":"4"}
+	],
+	"edges":[
+		{"id":"432348be687a8d6e","fromNode":"d3ad319f737c45b2","fromSide":"top","toNode":"b89ec46578bb14aa","toSide":"bottom"},
+		{"id":"44f83db8b8cbb7e9","fromNode":"af0cba786008087b","fromSide":"top","toNode":"d3ad319f737c45b2","toSide":"bottom"}
+	]
+}

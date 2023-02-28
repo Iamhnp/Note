@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:hnp",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Linux",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Code",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Fun",
+      "color": {
+        "a": 1,
+        "rgb": 12397009
+      }
+    },
+    {
+      "query": "path:Standard",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Game",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.40095818168313,
+  "lineSizeMultiplier": 4.05479462229815,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 15.4764911238208,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4016151595359281,
+  "close": true
+}

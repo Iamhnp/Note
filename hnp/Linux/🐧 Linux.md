@@ -1,0 +1,5 @@
+[[Config]]
+[[Fix]]
+[[Custom]]
+[[Nvim]]
+[[Gnome]]

@@ -1,0 +1,19 @@
+🔎 Summary project
+👤 User 
+🤖 Author 
+🎏 Application
+💵 Cost
+⚙️ Hardware 
+💾 Software
+👍 Advantages
+👎 Disadvantages
+👌 Requirement
+🔭 Extension
+📚 Reference
+🔗 Link
+🧾️ License
+📎 Attach
+🥼 Test
+🥽 Safet
+📝 Docummentation
+📭 Feedback

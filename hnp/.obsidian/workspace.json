@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "13a5a1c7f06942d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "82aae33fd638e546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f99e2b4a39010ef8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Standard/Symbol ✨.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a021a9aa8127565b",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d58a7db7b2b4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2aedb11847ab75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0143ea09ee6862f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3dd748c8e52e524",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90246a645825ad61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b076c55c00077add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365cf7647e9b21d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Standard/Symbol ✨.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4568b4806ddda2bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Standard/Symbol ✨.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c00e4ff70b33ce4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1c63239428b0769",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Standard/Symbol ✨.md"
+              }
+            }
+          },
+          {
+            "id": "428ed4743c581a7f",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "22627608d986ca33",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "8800ccf26681b12b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "12d23cb1b3cc0a78",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b0c4004cea531d0",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "15dc4b14cdfd57ff",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "29707332774452c1",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": true,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "f99e2b4a39010ef8",
+  "lastOpenFiles": [
+    "hnp/README.md",
+    "hnp",
+    "Game/Unity/UnityEditor interface.md",
+    "Game/Unity/Unity.md",
+    "Standard/Symbol ✨.md",
+    "Recording 20230228093935.webm",
+    "Recording 20230228093918.webm",
+    "Standard/Standard Document 📋.md",
+    "Untitled Kanban 1.md",
+    "hhh.md",
+    "Untitled Kanban.md",
+    "2023-02-28.md",
+    "Untitled.canvas",
+    "Game/🎮 Game.md",
+    "2023-W09.md",
+    "Linux/Config.md",
+    "Linux/Custom.md",
+    "Linux/🐧 Linux.md",
+    "Standard/🪧 Standard.md",
+    "Standard/Board 🧩.canvas",
+    "Standard/Project 📌.canvas",
+    "Standard/Summary 📑.canvas",
+    "Code/How_to_write_code/⌨️ Code.md",
+    "Code/How_to_write_code/Summary 📑.canvas",
+    "Code/How_to_write_code/Name Thing.md",
+    "Fun/Anime 🇯🇵.md",
+    "Fun/😀 Fun.md",
+    "Linux/Gnome.md",
+    "Linux/Nvim.md",
+    "Linux/Fix.md",
+    "Fun/Manhwa 🇰🇷.md",
+    "2023-02-26.md",
+    "Pasted image 20230226092337.png.md",
+    "Pasted image 20230226090854.png",
+    "Pasted image 20230226092337.png",
+    "Pasted image 20230226090904.png",
+    "0_hnp_0/hnp.md",
+    "Game/Unity",
+    "Game",
+    "0_hnp_0"
+  ]
+}

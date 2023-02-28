@@ -1,0 +1,35 @@
+{
+  "calendar:show-calendar-view": [],
+  "dataview:dataview-force-refresh-views": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "fantasy-calendar:open-fantasy-calendar": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-kanban:add-kanban-lane": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}
