@@ -1,5 +1,9 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "useTab": true,
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "foldIndent": true
 }

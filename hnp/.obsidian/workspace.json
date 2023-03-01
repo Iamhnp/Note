@@ -83,23 +83,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "365cf7647e9b21d5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Standard/Symbol ✨.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "4568b4806ddda2bd",
             "type": "leaf",
             "state": {
@@ -123,64 +106,6 @@
             }
           },
           {
-            "id": "c1c63239428b0769",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Standard/Symbol ✨.md"
-              }
-            }
-          },
-          {
-            "id": "428ed4743c581a7f",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "22627608d986ca33",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "8800ccf26681b12b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "12d23cb1b3cc0a78",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b0c4004cea531d0",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "15dc4b14cdfd57ff",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "29707332774452c1",
             "type": "leaf",
             "state": {
@@ -189,7 +114,21 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "19ccb5c5f11fa11f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f65804dfcdd2367",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,9 +141,7 @@
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "templates:Insert template": true,
       "audio-recorder:Start/stop recording": false,
-      "random-note:Open random note": true,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
@@ -212,16 +149,23 @@
   "active": "f99e2b4a39010ef8",
   "lastOpenFiles": [
     "hnp/README.md",
-    "hnp",
-    "Game/Unity/UnityEditor interface.md",
-    "Game/Unity/Unity.md",
     "Standard/Symbol ✨.md",
+    "Fun/😀 Fun.md",
+    "Game/Unity/UnityEditor interface.md",
+    "Fun/Manhwa 🇰🇷.md",
+    "Fun/Anime 🇯🇵.md",
+    "Code/How_to_write_code/⌨️ Code.md",
+    "Standard/Summary 📑.canvas",
+    "Untitled Kanban.md",
+    "Standard/Standard Document 📋.md",
+    "Standard/🪧 Standard.md",
+    "link Note.md",
+    "hnp",
+    "Game/Unity/Unity.md",
     "Recording 20230228093935.webm",
     "Recording 20230228093918.webm",
-    "Standard/Standard Document 📋.md",
     "Untitled Kanban 1.md",
     "hhh.md",
-    "Untitled Kanban.md",
     "2023-02-28.md",
     "Untitled.canvas",
     "Game/🎮 Game.md",
@@ -229,25 +173,17 @@
     "Linux/Config.md",
     "Linux/Custom.md",
     "Linux/🐧 Linux.md",
-    "Standard/🪧 Standard.md",
     "Standard/Board 🧩.canvas",
     "Standard/Project 📌.canvas",
-    "Standard/Summary 📑.canvas",
-    "Code/How_to_write_code/⌨️ Code.md",
     "Code/How_to_write_code/Summary 📑.canvas",
     "Code/How_to_write_code/Name Thing.md",
-    "Fun/Anime 🇯🇵.md",
-    "Fun/😀 Fun.md",
     "Linux/Gnome.md",
     "Linux/Nvim.md",
     "Linux/Fix.md",
-    "Fun/Manhwa 🇰🇷.md",
     "2023-02-26.md",
-    "Pasted image 20230226092337.png.md",
     "Pasted image 20230226090854.png",
     "Pasted image 20230226092337.png",
     "Pasted image 20230226090904.png",
-    "0_hnp_0/hnp.md",
     "Game/Unity",
     "Game",
     "0_hnp_0"
