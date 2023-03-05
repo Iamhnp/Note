@@ -1,4 +1,4 @@
-🔎 Summary project
+🔎 Description
 👤 User 
 🤖 Author 
 🎏 Application
@@ -14,6 +14,6 @@
 🧾️ License
 📎 Attach
 🥼 Test
-🥽 Safet
+🥽 Safety
 📝 Docummentation
 📭 Feedback

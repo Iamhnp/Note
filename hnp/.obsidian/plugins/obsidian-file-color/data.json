@@ -1,0 +1,87 @@
+{
+  "palette": [
+    {
+      "id": "JZ51jlWyL0-796nB46lj5",
+      "name": "hnp",
+      "value": "#ffffff"
+    },
+    {
+      "id": "z7J_WJAVRO-7cXxhBwTTp",
+      "name": "Computer",
+      "value": "#e0b152"
+    },
+    {
+      "id": "62L8hGOUfVSPm1jrxKSK8",
+      "name": "Code",
+      "value": "#b1e052"
+    },
+    {
+      "id": "YIiy2ed6yZpy_fycGXCLc",
+      "name": "Fun",
+      "value": "#cd8ad6"
+    },
+    {
+      "id": "gkGAdy3IQE2DK_sLVKI_A",
+      "name": "Standard",
+      "value": "#52e0b1"
+    },
+    {
+      "id": "Rsj53OvHXWxp7xKeczATJ",
+      "name": "Game",
+      "value": "#52b1e0"
+    },
+    {
+      "id": "L0w4grCaHoDUWbDU8gEx1",
+      "name": "EasyWithDrawing",
+      "value": "#a9d6b9"
+    },
+    {
+      "id": "hHBV9yClGGuyd3FsH2znh",
+      "name": "Arduino",
+      "value": "#ea5757"
+    },
+    {
+      "id": "qUqqDFnXMJ-qKEUykn2VJ",
+      "name": "Programming_languages",
+      "value": "#8c1dfc"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "0_hnp_0",
+      "color": "JZ51jlWyL0-796nB46lj5"
+    },
+    {
+      "path": "Code",
+      "color": "62L8hGOUfVSPm1jrxKSK8"
+    },
+    {
+      "path": "Fun",
+      "color": "YIiy2ed6yZpy_fycGXCLc"
+    },
+    {
+      "path": "Gamedesign",
+      "color": "Rsj53OvHXWxp7xKeczATJ"
+    },
+    {
+      "path": "Standard",
+      "color": "gkGAdy3IQE2DK_sLVKI_A"
+    },
+    {
+      "path": "EasyWithDrawing",
+      "color": "L0w4grCaHoDUWbDU8gEx1"
+    },
+    {
+      "path": "Arduino",
+      "color": "hHBV9yClGGuyd3FsH2znh"
+    },
+    {
+      "path": "Proramming_languages",
+      "color": "qUqqDFnXMJ-qKEUykn2VJ"
+    },
+    {
+      "path": "Computer",
+      "color": "z7J_WJAVRO-7cXxhBwTTp"
+    }
+  ]
+}

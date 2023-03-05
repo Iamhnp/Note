@@ -10,8 +10,7 @@
   ⋗ When you select a _GameObject_ in _Scene view_ or in _Hierarchy_, you'll see its _components_ in the _Inspector_ 
    ╰》_Components_ describe the properties and behaviors of _GameObjects_.
 
-
->Links:https://learn.unity.com/tutorial/explore-the-unity-editor-1#
+`fas:Link`https://learn.unity.com/tutorial/explore-the-unity-editor-1#
 
 
 

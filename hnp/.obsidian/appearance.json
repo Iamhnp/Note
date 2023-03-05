@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,Font Awesome 6 Brands,FontAwesome",
+  "textFontFamily": "JetBrainsMono Nerd Font,Font Awesome 6 Free,Font Awesome 6 Brands",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font,Font Awesome 6 Free,Font Awesome 6 Brands",
   "baseFontSize": 20,
   "nativeMenus": false
 }

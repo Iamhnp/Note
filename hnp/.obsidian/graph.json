@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:Linux",
+      "query": "path:Computer",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,7 +32,7 @@
       "query": "path:Fun",
       "color": {
         "a": 1,
-        "rgb": 12397009
+        "rgb": 13470422
       }
     },
     {
@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:Proramming_languages",
+      "color": {
+        "a": 1,
+        "rgb": 9182716
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +74,6 @@
   "repelStrength": 15.4764911238208,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1146554284592142,
+  "scale": 0.05601444843854313,
   "close": true
 }

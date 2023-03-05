@@ -3,5 +3,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-admonition",
   "obsidian-icons-plugin",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-excalidraw-plugin",
+  "obsidian-file-color"
 ]

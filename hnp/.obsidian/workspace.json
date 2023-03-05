@@ -4,25 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "82aae33fd638e546",
+        "id": "bb021879176c960c",
         "type": "tabs",
         "children": [
           {
-            "id": "f99e2b4a39010ef8",
+            "id": "723bd772fafd90d0",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Standard/Symbol ✨.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -72,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.01103591918945
   },
   "right": {
     "id": "90246a645825ad61",
@@ -88,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Standard/Symbol ✨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,16 +105,56 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "40fdf9b39ec0daf4",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "1193cf05cb7458bc",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "e39f30f2d2f374f8",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3c3ce5f4aa29a43",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "37884c8c5a36ecf1",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "19ccb5c5f11fa11f",
+        "id": "6939aa47ef1a7e27",
         "type": "tabs",
         "children": [
           {
-            "id": "8f65804dfcdd2367",
+            "id": "eb2a8761db4f8202",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -132,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,49 +176,55 @@
       "graph:Open graph view": false,
       "audio-recorder:Start/stop recording": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f99e2b4a39010ef8",
+  "active": "723bd772fafd90d0",
   "lastOpenFiles": [
-    "hnp/README.md",
+    "Computer/Computer.md",
+    "Computer/Window/🪟 Window.md",
+    "Computer/Window",
+    "Computer/Linux/🐧 Linux.md",
+    "Gamedesign/🎮 GameDesign.md",
+    "0_hnp_0/hnp.md",
     "Standard/Symbol ✨.md",
-    "Fun/😀 Fun.md",
-    "Game/Unity/UnityEditor interface.md",
-    "Fun/Manhwa 🇰🇷.md",
-    "Fun/Anime 🇯🇵.md",
-    "Code/How_to_write_code/⌨️ Code.md",
+    "Computer",
     "Standard/Summary 📑.canvas",
-    "Untitled Kanban.md",
+    "Gamedesign/Client/Game_engine/Unity/UnityEditor interface.md",
+    "Gamedesign/Client/Game_engine/Unity/Unity.md",
+    "Proramming_languages/C_sharp/C_sharp.md",
+    "Proramming_languages/C/C.md",
+    "Proramming_languages/🚼 Proramming_languages.md",
+    "Proramming_languages/Python/Python.md",
+    "Proramming_languages/C_sharp",
+    "Proramming_languages/Python",
+    "Proramming_languages/C",
+    "Proramming_languages",
+    "Fun/Manhwa 🇰🇷.md",
+    "Gamedesign/Client/Game_engine/Game_engine.md",
+    "Gamedesign/Client/Client.md",
+    "Gamedesign/Client/Game_engine",
+    "Gamedesign/Client",
+    "Fun/😀 Fun.md",
     "Standard/Standard Document 📋.md",
-    "Standard/🪧 Standard.md",
-    "link Note.md",
-    "hnp",
-    "Game/Unity/Unity.md",
-    "Recording 20230228093935.webm",
-    "Recording 20230228093918.webm",
-    "Untitled Kanban 1.md",
-    "hhh.md",
-    "2023-02-28.md",
-    "Untitled.canvas",
-    "Game/🎮 Game.md",
-    "2023-W09.md",
-    "Linux/Config.md",
-    "Linux/Custom.md",
-    "Linux/🐧 Linux.md",
     "Standard/Board 🧩.canvas",
     "Standard/Project 📌.canvas",
+    "Fun/Anime 🇯🇵.md",
     "Code/How_to_write_code/Summary 📑.canvas",
-    "Code/How_to_write_code/Name Thing.md",
-    "Linux/Gnome.md",
-    "Linux/Nvim.md",
-    "Linux/Fix.md",
-    "2023-02-26.md",
+    "Code/How_to_write_code/⌨️ Code.md",
+    "Standard/README.md",
+    "Standard/🪧 Standard.md",
+    "Untitled.canvas",
+    "Drawing 2023-03-01 20.40.30.excalidraw.md",
+    "link Note.md",
+    "EasyWithDrawing/Drawing 2023-03-01 20.40.30.excalidraw.md",
+    "EasyWithDrawing/Drawing 2023-03-01 20.40.12.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-01 20.37.49.excalidraw.md",
+    "EasyWithDrawing",
+    "hnp",
     "Pasted image 20230226090854.png",
     "Pasted image 20230226092337.png",
-    "Pasted image 20230226090904.png",
-    "Game/Unity",
-    "Game",
-    "0_hnp_0"
+    "Pasted image 20230226090904.png"
   ]
 }

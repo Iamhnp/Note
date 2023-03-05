@@ -10,11 +10,6 @@
 
 ## Head 
 
-
 _Highlight_
-
-[[link Note]]
-
->link
 
 ---

@@ -11,6 +11,7 @@
   "fantasy-calendar:open-fantasy-calendar": [
     {
       "modifiers": [
+        "Mod",
         "Shift"
       ],
       "key": "C"
@@ -35,9 +36,29 @@
   "obsidian-admonition:insert-admonition": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "A"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }
