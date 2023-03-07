@@ -10,6 +10,16 @@
 
 ## Head 
 
+**Highlight**
 _Highlight_
 
 ---
+
+
+|First Header | Second Header|
+|------------ | ------------|
+|_Content from cell 1_ | Content from cell 2|
+|Content in the first column | Content in the second column|
+
+
+

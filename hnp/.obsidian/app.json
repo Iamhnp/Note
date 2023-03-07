@@ -5,5 +5,6 @@
   "useTab": true,
   "showInlineTitle": true,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "spellcheck": false
 }

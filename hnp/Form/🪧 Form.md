@@ -1,5 +1,5 @@
 [[Standard Document 📋]]
-[[Standard/Summary 📑.canvas]]
+[[Form/Summary 📑.canvas]]
 [[Project 📌.canvas]]
 [[Board 🧩.canvas]]
 [[Symbol ✨]]

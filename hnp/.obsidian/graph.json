@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:Standard",
+      "query": "path:Form",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -57,10 +57,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Organizations",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 7364343
+      }
+    },
+    {
+      "query": "path:Standardization",
+      "color": {
+        "a": 1,
+        "rgb": 15920175
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 15.4764911238208,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.05601444843854313,
+  "scale": 0.11465542845920733,
   "close": true
 }

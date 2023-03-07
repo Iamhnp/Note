@@ -1,0 +1,1 @@
+- ANSI C, ISO C, and Standard C are successive standards for the [[C]] programming language published by the [[American_Nation_Standards_Insitute(ANSI)]] and [[IS0'IEC_JTC_1'SC_22]]'WG_14 of the  [[Internaional_Origanizaion_for_Standardization(ISO)]] and the [[International_Electrotechnical_Commission(IEC)]]

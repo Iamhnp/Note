@@ -44,6 +44,16 @@
       "id": "qUqqDFnXMJ-qKEUykn2VJ",
       "name": "Programming_languages",
       "value": "#8c1dfc"
+    },
+    {
+      "id": "FW8-bIygE47KPR0Vr0cGd",
+      "name": "Organization",
+      "value": "#7061f7"
+    },
+    {
+      "id": "rSnZOhPt97xxsO4w6FlwW",
+      "name": "Standardzation",
+      "value": "#f2ec2f"
     }
   ],
   "fileColors": [
@@ -64,7 +74,7 @@
       "color": "Rsj53OvHXWxp7xKeczATJ"
     },
     {
-      "path": "Standard",
+      "path": "Form",
       "color": "gkGAdy3IQE2DK_sLVKI_A"
     },
     {
@@ -82,6 +92,14 @@
     {
       "path": "Computer",
       "color": "z7J_WJAVRO-7cXxhBwTTp"
+    },
+    {
+      "path": "Standardization",
+      "color": "rSnZOhPt97xxsO4w6FlwW"
+    },
+    {
+      "path": "Organizations",
+      "color": "FW8-bIygE47KPR0Vr0cGd"
     }
   ]
 }

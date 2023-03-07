@@ -1,2 +1,2 @@
-- [[🐧 Linux]]
-- [[🪟 Window]]
+- [[💾 Software]]
+- [[⚙️ Hardware]]
