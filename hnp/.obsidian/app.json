@@ -6,5 +6,8 @@
   "showInlineTitle": true,
   "foldHeading": true,
   "foldIndent": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "attachmentFolderPath": "./Attachments",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false
 }
